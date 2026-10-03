@@ -13,4 +13,10 @@ ideas_de_proyectos_ia = [
     # {"nombre": "Pedrito", "idea": "Un robot de IA que clasifique la basura en la escuela"},
 
     # ¡Tu contribución va aquí!
+    {"nombre": "Elia", 
+     "idea": "Un robot de IA que ayude a limpiar los salones antes de salir"},
+    {"nombre": "Elia", 
+     "idea": "Una IA que de los avisos generales en las mañanas"},
+    {"nombre": "Elia", 
+     "idea": "Una IA que verifique que los alumnos tengan la credencial"},
 ]
